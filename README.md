@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://cdn.discordapp.com/attachments/938175699326484490/948263435412598864/unknown_2.png" width="400px" height="150px" alt="ddos"></p>
 
 <h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
@@ -162,3 +163,7 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 <b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
 <b>Toman</b>: https://idpay.ir/mh-prodev</br>
 
+=======
+# SEN210
+SEN 210 class
+>>>>>>> b1f15cc70d4085268dd8a38fbc080b71d6597d9f
